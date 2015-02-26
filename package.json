@@ -1,0 +1,28 @@
+{
+  "name": "dmLivereload",
+  "version": "0.0.0",
+  "description": "Docker based Livereload",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter landing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divramod/dmLivereload.git"
+  },
+  "keywords": [
+    "livereload",
+    "docker",
+    "nodejs"
+  ],
+  "author": "Arvid Petermann <arvidpetermann@gmail.com> (http://arvidpetermann.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divramod/dmLivereload/issues"
+  },
+  "homepage": "https://github.com/divramod/dmLivereload",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0"
+  }
+}
