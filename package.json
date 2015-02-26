@@ -1,6 +1,6 @@
 {
   "name": "dm-livereload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Docker based Livereload",
   "main": "index.js",
   "scripts": {
